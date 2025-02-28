@@ -1,0 +1,10 @@
+{
+    "watch": [
+        "."
+    ],
+    "ignore": [
+        "./lib/*"
+    ],
+    "ext": "go, mod",
+    "exec": "go run ."
+}
