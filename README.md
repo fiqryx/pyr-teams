@@ -1,6 +1,5 @@
 ## Overview
-Implementing peer-to-peer (P2P) video conferencing using PeerJS. PeerJS is a JavaScript library that simplifies WebRTC connections, 
-allowing direct communication between clients without the need for a centralized media server. 
+Implementing peer-to-peer (P2P) video conferencing. PeerJS is a JavaScript library that simplifies WebRTC connections,
 This makes it an efficient and scalable solution for real-time video conferencing applications.
 
 [![Teams](./home.png)]()
