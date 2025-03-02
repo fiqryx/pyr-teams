@@ -15,8 +15,15 @@ This makes it an efficient and scalable solution for real-time video conferencin
 ## How to run
 - Clone the repo
 - Go to server-side directory
+- Copy each .env.example `cp env.example .env`
 - Start server-side on **http-server** `go run main.go`
 - Start client-side on **web-ui** `npm run dev`
-- make sure your install require dependencies
+- Make sure your install require dependencies & add supabase key on .env
+
+```env
+SUPABASE_URL=
+SUPABASE_ANON_KEY=
+```
+You can see on official supabase docs [here](https://supabase.com/docs)
 
 [![Teams](./call.png)]()
