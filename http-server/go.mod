@@ -78,7 +78,7 @@ require (
 	github.com/pion/udp v0.1.4 // indirect
 	github.com/pion/webrtc/v3 v3.1.47 // indirect
 	github.com/quic-go/qpack v0.5.1 // indirect
-	github.com/quic-go/quic-go v0.49.0 // indirect
+	github.com/quic-go/quic-go v0.49.1 // indirect
 	github.com/quic-go/webtransport-go v0.0.0-20241018022711-4ac2c9250e66 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/supabase-community/supabase-go v0.0.4
